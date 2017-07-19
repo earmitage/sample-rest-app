@@ -84,6 +84,22 @@ not create URIs themselves, instead they should use the above-described links to
 = Resources
 
 
+include::{snippets}/security-authenticate/curl-request.adoc[]
+
+
+[[resources-security]]
+== Authenticate
+
+include::{snippets}/security-authenticate/http-request.adoc[]
+
+include::{snippets}/security-authenticate/http-response.adoc[]
+
+include::{snippets}/security-authenticate/httpie-request.adoc[]
+
+include::{snippets}/security-authenticate/response-fields.adoc[]
+
+
+
 include::{snippets}/repository-drivers/curl-request.adoc[]
 
 
